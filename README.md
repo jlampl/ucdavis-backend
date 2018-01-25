@@ -1,5 +1,6 @@
-# CSC 191 Web App Controllers
-Serves as a repo for all controllers associated with the CSC 191 web app.
+# UC Davis CRHD Data Visualization Web Project Backend
+This repo contains the REST API for the UC Davis Center for Reducing Health Disparities (CRHD) 
+Data Visualization Web Project.  This was completed in pure PHP without a framework.
 
 ## Setup
 > **Required: Composer, PHP 5.x.x and PDO library (should be included with your PHP installation).**
