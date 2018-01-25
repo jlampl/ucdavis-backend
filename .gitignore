@@ -1,0 +1,8 @@
+# Ignored Folders
+/vendor
+
+# Ignored Files
+composer.lock
+src/.htaccess
+src/index_test.php
+.idea/
